@@ -1,4 +1,4 @@
-# Olay (Event) Enum'ı: Konsol Çıktılarınızı Anlamlandırın
+# Olay Enum'ı: Konsol Çıktılarınızı Anlamlandırın
 
 ## Açıklama
 
