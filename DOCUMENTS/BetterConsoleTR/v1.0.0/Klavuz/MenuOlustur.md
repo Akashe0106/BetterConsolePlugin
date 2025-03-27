@@ -1,4 +1,4 @@
-# MenuOlustur (MenuCreate) Sınıfı: Konsol Uygulamalarınız İçin Etkileyici ve Kullanıcı Dostu Menüler Oluşturun
+# MenuOlustur Sınıfı: Konsol Uygulamalarınız İçin Etkileyici ve Kullanıcı Dostu Menüler Oluşturun
 
 ## Açıklama
 
@@ -25,7 +25,7 @@
 
 ## Metotlar
 
-### MenuOlustur (Create) Metodu: Menünüzü Oluşturun ve Görüntüleyin
+### MenuOlustur Metodu: Menünüzü Oluşturun ve Görüntüleyin
 
 Menüyü oluşturur, kullanıcıya seçenekleri sunar ve seçilen seçeneğe göre eylemi gerçekleştirir.
 
@@ -36,9 +36,9 @@ public void MenuOlustur()
 *   **Parametreler:** Yok
 *   **İstisnalar:** Yok
 
-## Yapıcı Metot (Constructor): Menünüzün Temelini Atın
+## Yapıcı Metot: Menünüzün Temelini Atın
 
-### MenuOlustur (MenuCreate) Yapıcı Metodu: Yeni Bir Menü Oluşturun
+### MenuOlustur Yapıcı Metodu: Yeni Bir Menü Oluşturun
 
 Yeni bir `MenuOlustur` sınıfı örneği oluşturarak, etkileşimli konsol menülerinizin temelini atın. Bu yapıcı metot, menü öğelerinizi, seçili öğenin rengini ve normal öğelerin rengini tanımlamanıza olanak tanır.
 
