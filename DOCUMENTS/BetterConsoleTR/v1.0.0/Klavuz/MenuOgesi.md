@@ -1,4 +1,4 @@
-# MenuOgesi (MenuItem) Sınıfı: Etkileşimli Konsol Menülerinin Temel Taşı
+# MenuOgesi Sınıfı: Etkileşimli Konsol Menülerinin Temel Taşı
 
 ## Açıklama
 
