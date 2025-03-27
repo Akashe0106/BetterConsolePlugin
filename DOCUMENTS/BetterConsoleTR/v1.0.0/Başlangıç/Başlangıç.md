@@ -67,12 +67,12 @@ Bu kod, iki seçenekli temel bir menü oluşturacaktır: "Oyunu Başlat" ve "Ç�
 
 BetterConsoleTR, konsol uygulamalarınızı geliştirmek için daha birçok özellik sunar. Daha fazla bilgi edinmek için her sınıfın dökümanasyonunu inceleyin:
 
-*   [GelismisKonsol](GelismisKonsol.md)
-*   [Olay](Olay.md)
-*   [AyracTuru](AyracTuru.md)
-*   [Tablo](Tablo.md)
-*   [MenuOgesi](MenuOgesi.md)
-*   [MenuOlustur](MenuOlustur)
+*   [GelismisKonsol](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleTR/v1.0.0/Klavuz/GelismisKonsol.md)
+*   [Olay](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleTR/v1.0.0/Klavuz/Olay.md)
+*   [AyracTuru](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleTR/v1.0.0/Klavuz/AyracTuru.md)
+*   [Tablo](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleTR/v1.0.0/Klavuz/Tablo.md)
+*   [MenuOgesi](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleTR/v1.0.0/Klavuz/MenuOgesi.md)
+*   [MenuOlustur](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleTR/v1.0.0/Klavuz/MenuOlustur.md)
 
 ## Katkıda Bulunma
 
