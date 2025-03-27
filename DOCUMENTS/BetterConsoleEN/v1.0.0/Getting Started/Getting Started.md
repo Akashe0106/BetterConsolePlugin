@@ -76,6 +76,6 @@ BetterConsoleEN offers many more features to enhance your console applications. 
 
 ## Contributing
 
-If you want to contribute to BetterConsoleEN, please read the [CONTRIBUTING.md](LINK_TO_CONTRIBUTING_DOC) file for more information.
+If you want to contribute to BetterConsoleEN, please read the [CONTRIBUTING.md](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/CONTRIBUTING.md) file for more information.
 
 Enjoy using BetterConsoleEN!
