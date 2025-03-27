@@ -58,7 +58,7 @@ public MenuOlustur(List<MenuOgesi> ogeler, ConsoleColor? secimRengi = null, Cons
 Bu örnek, en temel menü oluşturma senaryosunu göstermektedir. Menü öğeleri tanımlanır, bir listeye eklenir ve ardından `MenuOlustur` sınıfı kullanılarak menü oluşturulur ve görüntülenir.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 using System.Collections.Generic;
 
@@ -80,7 +80,7 @@ menu.MenuOlustur();
 Bu örnek, menü öğelerinin renklerini özelleştirerek menünüzün görünümünü nasıl iyileştirebileceğinizi göstermektedir. Seçili öğe için farklı bir renk ve normal öğeler için farklı bir renk belirleyebilirsiniz.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 using System.Collections.Generic;
 
@@ -102,7 +102,7 @@ renkliMenu.MenuOlustur();
 Bu örnek, menü öğelerinin açıklamalarını kullanmadan nasıl menü oluşturabileceğinizi göstermektedir. Açıklama, menü öğesinin ne işe yaradığını veya ne yaptığını belirtmek için kullanılan isteğe bağlı bir özelliktir.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 using System.Collections.Generic;
 
@@ -122,7 +122,7 @@ basitMenu.MenuOlustur();
 ### 4. Örnek: Gelişmiş Menü Öğeleriyle Menü Oluşturma
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 using System.Collections.Generic;
 
