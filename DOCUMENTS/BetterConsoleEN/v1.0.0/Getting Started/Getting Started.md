@@ -8,12 +8,12 @@ Welcome to BetterConsoleEN! This guide will help you quickly get started with th
 
 ## Installation
 
-1.  **Download the DLL:** Download the `BetterConsolePlugin.dll` file from the [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-EN) page.
+1.  **Download the DLL:** Download the `BetterConsolePluginEN.dll` file from the [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-EN) page.
 2.  **Add Reference:** Add the DLL file as a reference to your .NET project.
 3.  **Import Namespace:** Add the following line to your code file:
 
     ```csharp
-    using BetterConsolePlugin;
+    using BetterConsolePluginEN;
     ```
 
 ## Basic Usage
@@ -21,7 +21,7 @@ Welcome to BetterConsoleEN! This guide will help you quickly get started with th
 ### Writing Colored Text
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 
 AdvancedConsole console = new AdvancedConsole();
@@ -33,7 +33,7 @@ This code snippet will print "Hello, World!" to the console in green color, with
 ### Creating a Table
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 
 Table table = new Table();
 table.AddHeaders("Name", "Age", "City");
@@ -47,7 +47,7 @@ This code will create and display a simple table with three columns and two rows
 ### Creating a Menu
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 using System.Collections.Generic;
 
