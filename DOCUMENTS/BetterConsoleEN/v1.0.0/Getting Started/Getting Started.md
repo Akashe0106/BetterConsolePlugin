@@ -8,7 +8,7 @@ Welcome to BetterConsoleEN! This guide will help you quickly get started with th
 
 ## Installation
 
-1.  **Download the DLL:** Download the `BetterConsolePlugin.dll` file from the [Releases](LINK_TO_RELEASES) page.
+1.  **Download the DLL:** Download the `BetterConsolePlugin.dll` file from the [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-EN) page.
 2.  **Add Reference:** Add the DLL file as a reference to your .NET project.
 3.  **Import Namespace:** Add the following line to your code file:
 
