@@ -8,7 +8,7 @@ BetterConsoleTR'ye hoş geldiniz! Bu kılavuz, kütüphaneyi hızlı bir şekild
 
 ## Kurulum
 
-1.  **DLL Dosyasını İndirin:** `BetterConsolePlugin.dll` dosyasını [Releases](LINK_TO_RELEASES) sayfasından indirin.
+1.  **DLL Dosyasını İndirin:** `BetterConsolePlugin.dll` dosyasını [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-TR) sayfasından indirin.
 2.  **Referans Ekleme:** DLL dosyasını .NET projenize referans olarak ekleyin.
 3.  **Namespace'i İçe Aktarın:** Kod dosyanıza aşağıdaki satırı ekleyin:
 
