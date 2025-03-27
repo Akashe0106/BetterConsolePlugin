@@ -1,5 +1,5 @@
 
-# Tablo (Table) Sınıfı: Verilerinizi Konsolda Sanata Dönüştürün
+# Tablo Sınıfı: Verilerinizi Konsolda Sanata Dönüştürün
 
 ## Açıklama
 
@@ -16,20 +16,20 @@
 
 ## Özellikler
 
-*   **Basliklar (Headers):** Tablonun başlıklarını tanımlayan, okunabilirliği artıran ve verilerinizi anlamlı bir şekilde kategorize eden bir `string` dizisidir.
+*   **Basliklar:** Tablonun başlıklarını tanımlayan, okunabilirliği artıran ve verilerinizi anlamlı bir şekilde kategorize eden bir `string` dizisidir.
     *   Tür: `string[]`
-*   **Veriler (Data):** Tablonun kalbini oluşturan, her biri bir satırı temsil eden ve farklı veri türlerini içeren `object` dizilerinden oluşan bir listedir.
+*   **Veriler:** Tablonun kalbini oluşturan, her biri bir satırı temsil eden ve farklı veri türlerini içeren `object` dizilerinden oluşan bir listedir.
     *   Tür: `List<object[]>`
-*   **BaslikRengi (HeaderColor):** Tablonuzun başlıklarına canlılık katan, okunabilirliği artıran ve tablonuzun genel estetiğini iyileştiren bir renktir.
+*   **BaslikRengi:** Tablonuzun başlıklarına canlılık katan, okunabilirliği artıran ve tablonuzun genel estetiğini iyileştiren bir renktir.
     *   Tür: `ConsoleColor?` (nullable ConsoleColor)
     *   Varsayılan Değer: `ConsoleColor.Cyan`
-*   **VeriRengi (DataColor):** Tablonuzdaki verilere hayat veren, okunabilirliği artıran ve verilerinizi vurgulamanıza olanak tanıyan bir renktir.
+*   **VeriRengi:** Tablonuzdaki verilere hayat veren, okunabilirliği artıran ve verilerinizi vurgulamanıza olanak tanıyan bir renktir.
     *   Tür: `ConsoleColor?` (nullable ConsoleColor)
     *   Varsayılan Değer: `ConsoleColor.White`
 
 ## Metotlar
 
-### BaslikEkle (AddHeaders) Metodu: Tablonuza Ruh Katın
+### BaslikEkle Metodu: Tablonuza Ruh Katın
 
 Tablonuza anlam ve yapı kazandıran başlıkları eklemek için kullanılır. Bu metot, tablonuzun içeriğini tanımlayan ve kullanıcılarınıza yol gösteren başlıkları oluşturmanıza olanak tanır.
 
@@ -42,7 +42,7 @@ public void BaslikEkle(params string[] basliklar)
 *   **İstisnalar:**
     *   `ArgumentException`: Eğer eklemeye çalıştığınız başlıkların sayısı, mevcut verilerinizle uyumlu değilse, bu istisna fırlatılır.
 
-### SatirEkle (AddRow) Metodu: Verilerinizi Canlandırın
+### SatirEkle Metodu: Verilerinizi Canlandırın
 
 Tablonuza yeni veriler ekleyerek içeriğini zenginleştirmenizi sağlar. Bu metot, verilerinizi düzenli bir şekilde tablonuza eklemenize ve kullanıcılarınıza sunmanıza olanak tanır.
 
@@ -55,7 +55,7 @@ public void SatirEkle(params object[] satirVerileri)
 *   **İstisnalar:**
     *   `ArgumentException`: Eğer eklemeye çalıştığınız veri satırının sütun sayısı, tablonuzun başlıklarıyla uyumlu değilse, bu istisna fırlatılır.
 
-### Yazdir (Print) Metodu: Şaheserinizi Sergileyin
+### Yazdir Metodu: Şaheserinizi Sergileyin
 
 Oluşturduğunuz tabloyu konsolda görüntüleyerek, verilerinizi etkileyici bir şekilde sunmanızı sağlar. Bu metot, tablonuzun başlıklarını, verilerini ve biçimlendirmesini konsola yazdırarak, kullanıcılarınızın bilgiyi kolayca kavramasına yardımcı olur.
 
