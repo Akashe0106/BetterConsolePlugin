@@ -58,7 +58,7 @@ public MenuCreate(List<MenuItem> items, ConsoleColor? selectionColor = null, Con
 This example shows the most basic menu creation scenario. Menu items are defined, added to a list, and then the menu is created and displayed using the `MenuCreate` class.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 using System.Collections.Generic;
 
@@ -80,7 +80,7 @@ menu.Create();
 This example shows how you can improve the appearance of your menu by customizing the colors of the menu items. You can specify a different color for the selected item and a different color for the normal items.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 using System.Collections.Generic;
 
@@ -102,7 +102,7 @@ coloredMenu.Create();
 This example shows how you can create a menu without using descriptions for menu items. The description is an optional feature used to specify what a menu item does or what it is for.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 using System.Collections.Generic;
 
@@ -122,7 +122,7 @@ simpleMenu.Create();
 ### 4. Example: Creating a Menu With Advanced Menu Items
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 using System.Collections.Generic;
 
