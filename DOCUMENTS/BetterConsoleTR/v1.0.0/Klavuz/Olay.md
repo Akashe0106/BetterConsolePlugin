@@ -30,7 +30,7 @@
 `Olay` enum'ını `GelismisKonsol` sınıfının `Yaz` metodu ile birlikte kullanmak oldukça kolaydır. Sadece yazdırmak istediğiniz mesajı ve ilgili `Olay` türünü belirtmeniz yeterlidir.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 
 GelismisKonsol konsol = new GelismisKonsol();
 
