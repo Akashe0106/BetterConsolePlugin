@@ -100,4 +100,4 @@ table.Print();
     *   After creating your table, you can filter, sort, or summarize the data.
     *   You can use additional libraries to export your table in different formats (e.g., CSV, HTML).
 
-This example shows how to create impressive and organized tables using the `Table` class. By using your own creativity, you can combine different data types, formatting options, and colors, and create an unforgettable visual experience in your console applications!
+This example shows how to create impressive and organized tables using the `Table` class. By using your own creativity, you can combine different data types, formatting options, and colors, and create an unforgettable visual experience in your console applications! 
