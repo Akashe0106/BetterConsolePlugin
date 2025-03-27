@@ -29,7 +29,7 @@ The `BracketType` enum, when used with the `AdvancedConsole` class, allows you t
 You can use the `BracketType` enum with the `DefaultBracketType` property of the `AdvancedConsole` class. This allows you to set the default bracket type for all event outputs.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 
 AdvancedConsole console = new AdvancedConsole();
 
