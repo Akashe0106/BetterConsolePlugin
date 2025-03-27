@@ -30,7 +30,7 @@ The `Event` enum is a powerful tool designed to enrich and add meaning to the ou
 Using the `Event` enum with the `AdvancedConsole` class's `Write` method is quite easy. Just specify the message you want to print and the corresponding `Event` type.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 
 AdvancedConsole console = new AdvancedConsole();
 
