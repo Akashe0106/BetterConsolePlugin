@@ -8,12 +8,12 @@ BetterConsoleTR'ye hoş geldiniz! Bu kılavuz, kütüphaneyi hızlı bir şekild
 
 ## Kurulum
 
-1.  **DLL Dosyasını İndirin:** `BetterConsolePlugin.dll` dosyasını [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-TR) sayfasından indirin.
+1.  **DLL Dosyasını İndirin:** `BetterConsolePluginTR.dll` dosyasını [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-TR) sayfasından indirin.
 2.  **Referans Ekleme:** DLL dosyasını .NET projenize referans olarak ekleyin.
 3.  **Namespace'i İçe Aktarın:** Kod dosyanıza aşağıdaki satırı ekleyin:
 
     ```csharp
-    using BetterConsolePlugin;
+    using BetterConsolePluginTR;
     ```
 
 ## Temel Kullanım
@@ -21,7 +21,7 @@ BetterConsoleTR'ye hoş geldiniz! Bu kılavuz, kütüphaneyi hızlı bir şekild
 ### Renkli Metin Yazdırma
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 
 GelismisKonsol konsol = new GelismisKonsol();
@@ -33,7 +33,7 @@ Bu kod parçacığı, "Merhaba, Dünya!" metnini konsola yeşil renkte, "BILGI" 
 ### Tablo Oluşturma
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 
 Tablo tablo = new Tablo();
 tablo.BaslikEkle("Ad", "Yaş", "Şehir");
@@ -47,7 +47,7 @@ Bu kod, üç sütunlu ve iki satırlı basit bir tablo oluşturacak ve görünt�
 ### Menü Oluşturma
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 using System.Collections.Generic;
 
