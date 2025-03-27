@@ -67,12 +67,12 @@ This code will create a basic menu with two options: "Start Game" and "Exit".
 
 BetterConsoleEN offers many more features to enhance your console applications. Explore the documentation for each class to learn more:
 
-*   [AdvancedConsole](AdvancedConsole.md)
-*   [Event](Event.md)
-*   [BracketType](BracketType.md)
-*   [Table](Table.md)
-*   [MenuItem](MenuItem.md)
-*   [MenuCreate](MenuCreate.md)
+*   [AdvancedConsole]([AdvancedConsole.md](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleEN/v1.0.0/How-to%20Guides/AdvancedConsole.md))
+*   [Event]([Event.md](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleEN/v1.0.0/How-to%20Guides/Event.md))
+*   [BracketType](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleEN/v1.0.0/How-to%20Guides/BracketType.md)
+*   [Table](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleEN/v1.0.0/How-to%20Guides/Table.md)
+*   [MenuItem](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleEN/v1.0.0/How-to%20Guides/MenuItem.md)
+*   [MenuCreate](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/DOCUMENTS/BetterConsoleEN/v1.0.0/How-to%20Guides/MenuCreate.md)
 
 ## Contributing
 
