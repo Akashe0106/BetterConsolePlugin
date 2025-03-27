@@ -76,6 +76,6 @@ BetterConsoleTR, konsol uygulamalarınızı geliştirmek için daha birçok öze
 
 ## Katkıda Bulunma
 
-BetterConsoleTR'ye katkıda bulunmak isterseniz, [CONTRIBUTING.md](LINK_TO_CONTRIBUTING_DOC) dosyasını okuyun.
+BetterConsoleTR'ye katkıda bulunmak isterseniz, [CONTRIBUTING.md](https://github.com/Akashe0106/BetterConsolePlugin/blob/main/CONTRIBUTNG.md) dosyasını okuyun.
 
 BetterConsoleTR'yi kullandığınız için teşekkürler!
