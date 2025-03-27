@@ -21,9 +21,9 @@
 *   **Eylem (Action):** Menü öğesi seçildiğinde sihirli bir şekilde çalıştırılacak eylemi temsil eden, güçlü ve esnek bir `Action` delegesidir. Bu delege, herhangi bir parametre almayan ve herhangi bir değer döndürmeyen bir metodu temsil eder.
     *   Tür: `Action`
 
-## Yapıcı Metot (Constructor): Menü Öğelerinizi Yaratın
+## Yapıcı Metot: Menü Öğelerinizi Yaratın
 
-### MenuOgesi (MenuItem) Yapıcı Metodu: Yeni Bir Menü Öğesine Hayat Verin
+### MenuOgesi Yapıcı Metodu: Yeni Bir Menü Öğesine Hayat Verin
 
 Yeni bir `MenuOgesi` sınıfı örneği oluşturarak, etkileşimli konsol menülerinizin temelini atın. Bu yapıcı metot, menü öğenizin metnini, eylemini ve isteğe bağlı açıklamasını tanımlamanıza olanak tanır.
 
