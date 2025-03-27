@@ -1,4 +1,4 @@
-# AyracTuru (BracketType) Enum'ı: Olay Çıktılarınızı Kişiselleştirin
+# AyracTuru Enum'ı: Olay Çıktılarınızı Kişiselleştirin
 
 ## Açıklama
 
