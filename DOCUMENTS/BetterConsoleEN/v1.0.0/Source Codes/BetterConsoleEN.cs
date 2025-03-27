@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BetterConsolePlugin
+namespace BetterConsolePluginEN
 {
     /// <summary>
     /// Main class providing advanced console outputs and interactions.
@@ -398,7 +398,7 @@ namespace BetterConsolePlugin
     /// <summary>
     /// Creates and manages a console menu. Presents options to the user and performs actions based on the selected option.
     /// </summary>
-    public class Menu
+    public class MenuCreate
     {
         /// <summary>
         /// List of menu items.
@@ -421,7 +421,7 @@ namespace BetterConsolePlugin
         /// <param name="items">List of menu items.</param>
         /// <param name="selectionColor">The color of the selected menu item (optional).</param>
         /// <param name="normalItemColor">The color of the non-selected menu items (optional).</param>
-        public Menu(List<MenuItem> items, ConsoleColor? selectionColor = null, ConsoleColor? normalItemColor = null)
+        public MenuCreate(List<MenuItem> items, ConsoleColor? selectionColor = null, ConsoleColor? normalItemColor = null)
         {
             Items = items;
             SelectionColor = selectionColor;
