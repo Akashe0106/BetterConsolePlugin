@@ -40,7 +40,7 @@ public MenuItem(string text, Action action, string description = null)
 
 You can find more different uses at [MenuCreate.md](MenuCreate.md).
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 using System;
 using System.Collections.Generic;
 
