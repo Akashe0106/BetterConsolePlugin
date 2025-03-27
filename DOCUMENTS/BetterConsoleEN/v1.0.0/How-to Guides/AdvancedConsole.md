@@ -79,7 +79,7 @@ public void Write(string text, Event? @event = null, ConsoleColor? textColor = n
 *   **Usage Examples:**
 
     ```csharp
-    using BetterConsolePlugin;
+    using BetterConsolePluginEN;
 
     AdvancedConsole console = new AdvancedConsole();
 
@@ -117,7 +117,7 @@ public void DrawLine(ConsoleColor color, char character = '-')
 *   **Usage Examples:**
 
     ```csharp
-    using BetterConsolePlugin;
+    using BetterConsolePluginEN;
 
     AdvancedConsole console = new AdvancedConsole();
 
