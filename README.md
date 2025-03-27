@@ -14,7 +14,7 @@ BetterConsolePlugin, .NET projelerinizde konsol uygulamalarını daha etkileşim
 
 ## Kurulum
 
-1.  **DLL Dosyasını İndirin:** [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0) sayfasından `BetterConsolePlugin.dll` dosyasını indirin.
+1.  **DLL Dosyasını İndirin:** [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases) sayfasından `BetterConsolePlugin.dll` dosyasını indirin.
 2.  **Projenize Ekleyin:** DLL dosyasını .NET projenize referans olarak ekleyin.
 3.  **Namespace'i Ekleyin:** Projenizin kod dosyalarında `using BetterConsolePlugin;` satırını ekleyin.
 
