@@ -68,7 +68,7 @@ public void Print()
 ## Usage
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginEN;
 
 // Create a new table
 Table table = new Table();
