@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BetterConsolePlugin
+namespace BetterConsolePluginTR
 {
     /// <summary>
     /// Gelişmiş konsol çıktıları ve etkileşimleri sağlayan ana sınıf.
@@ -398,7 +398,7 @@ namespace BetterConsolePlugin
     /// <summary>
     /// Konsol menüsünü oluşturur ve yönetir. Kullanıcıya seçenekler sunar ve seçilen seçeneğe göre işlem yapar.
     /// </summary>
-    public class Menu
+    public class MenuOlustur
     {
         /// <summary>
         /// Menü öğeleri listesi.
@@ -421,7 +421,7 @@ namespace BetterConsolePlugin
         /// <param name="ogeler">Menü öğeleri listesi.</param>
         /// <param name="secimRengi">Seçili menü öğesinin rengi (isteğe bağlı).</param>
         /// <param name="normalOgeRengi">Seçili olmayan menü öğelerinin rengi (isteğe bağlı).</param>
-        public Menu(List<MenuOgesi> ogeler, ConsoleColor? secimRengi = null, ConsoleColor? normalOgeRengi = null)
+        public MenuOlustur(List<MenuOgesi> ogeler, ConsoleColor? secimRengi = null, ConsoleColor? normalOgeRengi = null)
         {
             Ogeler = ogeler;
             SecimRengi = secimRengi;
