@@ -14,7 +14,7 @@ BetterConsolePlugin, .NET projelerinizde konsol uygulamalarını daha etkileşim
 
 ## Kurulum
 
-1.  **DLL Dosyasını İndirin:** [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases) sayfasından `BetterConsolePluginTR.dll` dosyasını indirin.
+1.  **DLL Dosyasını İndirin:** [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-TR) sayfasından `BetterConsolePluginTR.dll` dosyasını indirin.
 2.  **Projenize Ekleyin:** DLL dosyasını .NET projenize referans olarak ekleyin.
 3.  **Namespace'i Ekleyin:** Projenizin kod dosyalarında `using BetterConsolePluginTR;` satırını ekleyin.
 
@@ -41,8 +41,6 @@ Sorularınız veya geri bildirimleriniz için `yilmazefeondu@gmail.com` ile ilet
 
 ---
 
---- START OF FILE README (1).md ---
-
 # BetterConsolePlugin - English
 
 BetterConsolePlugin is an open-source class library (DLL) that helps you make console applications more interactive and user-friendly in your .NET projects. This library includes various features such as colored text, event-based outputs, formatted tables, menus, and line drawing. **It has been developed using object-oriented programming (OOP) principles, making the code reusable and easy to maintain.**
@@ -59,7 +57,7 @@ BetterConsolePlugin is an open-source class library (DLL) that helps you make co
 
 ## Installation
 
-1.  **Download the DLL File:** Download the `BetterConsolePluginEN.dll` file from the [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases) page.
+1.  **Download the DLL File:** Download the `BetterConsolePluginEN.dll` file from the [Releases](https://github.com/Akashe0106/BetterConsolePlugin/releases/tag/v1.0.0-EN) page.
 2.  **Add to Your Project:** Add the DLL file as a reference to your .NET project.
 3.  **Add the Namespace:** Add the line `using BetterConsolePluginEN;` to your project's code files.
 
