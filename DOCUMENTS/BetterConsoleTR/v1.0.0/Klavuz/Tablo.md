@@ -69,7 +69,7 @@ public void Yazdir()
 ## Kullanım
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 
 // Yeni bir tablo oluşturun
 Tablo tablo = new Tablo();
