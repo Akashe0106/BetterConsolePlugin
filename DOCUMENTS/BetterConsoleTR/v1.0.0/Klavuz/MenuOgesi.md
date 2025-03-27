@@ -40,7 +40,7 @@ public MenuOgesi(string metin, Action eylem, string aciklama = null)
 
 Daha farklı kullanımlarını [MenuOlustur.md](MenuOlustur.md)'de bulabilirsiniz.
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 using System;
 using System.Collections.Generic;
 
