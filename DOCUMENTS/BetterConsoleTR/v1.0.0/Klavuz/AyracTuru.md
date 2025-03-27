@@ -29,7 +29,7 @@
 `AyracTuru` enum'ını `GelismisKonsol` sınıfının `VarsayilanAyracTuru` özelliği ile birlikte kullanabilirsiniz. Bu sayede, tüm olay çıktıları için varsayılan ayraç türünü belirleyebilirsiniz.
 
 ```csharp
-using BetterConsolePlugin;
+using BetterConsolePluginTR;
 
 GelismisKonsol konsol = new GelismisKonsol();
 
