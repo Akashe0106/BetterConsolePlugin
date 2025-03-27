@@ -79,7 +79,7 @@ public void Yaz(string metin, Olay? olay = null, ConsoleColor? metinRengi = null
 *   **Kullanım Örnekleri:**
 
     ```csharp
-    using BetterConsolePlugin;
+    using BetterConsolePluginTR;
 
     GelismisKonsol konsol = new GelismisKonsol();
 
@@ -117,7 +117,7 @@ public void CizgiCiz(ConsoleColor renk, char karakter = '-')
 *   **Kullanım Örnekleri:**
 
     ```csharp
-    using BetterConsolePlugin;
+    using BetterConsolePluginTR;
 
     GelismisKonsol konsol = new GelismisKonsol();
 
